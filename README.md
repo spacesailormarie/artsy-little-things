@@ -1,4 +1,4 @@
-# funny-little-things
+# artsy little things
 
 random stuff i want to try out and upload
 i think it will just be a lot of my own creations media-wise because i suck at software dev.
